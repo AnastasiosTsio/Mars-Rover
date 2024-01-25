@@ -1,0 +1,49 @@
+5
+5
+5
+~.~.~
+..#~.
+..C#.
+#....
+#.~~.
+Densite voulue 0.400000
+Densite obtenue 0.400000
+Terrain Valide
+
+....#
+~~..#
+..C~.
+.~~~.
+~..#.
+Densite voulue 0.400000
+Densite obtenue 0.400000
+Terrain Valide
+
+.#.~.
+..~.~
+~.C.~
+.~~.~
+..~..
+Densite voulue 0.400000
+Densite obtenue 0.400000
+Terrain Valide
+
+.~##.
+.....
+#.C#.
+...~.
+.~##~
+Densite voulue 0.400000
+Densite obtenue 0.400000
+Terrain Valide
+
+....#
+.~~..
+..C..
+~.~~#
+~#~..
+Densite voulue 0.400000
+Densite obtenue 0.400000
+Terrain Valide
+
+Densite moyenne 0.400000
